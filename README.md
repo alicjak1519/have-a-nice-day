@@ -7,7 +7,7 @@ An application recognising emotions from your face and matching the best quote t
 - [ ] try to write algorithm without tensorflow/keras 🧠
 - [ ] move computing from local env to the cloud ☁️
 - [ ] consider how to match a quote with an emotion ✍️
-- [ ] design a UI for the app 🖼
+- [ ] design UI for the app 🖼
 - [ ] create frontend application 📱
 
 ## sources
